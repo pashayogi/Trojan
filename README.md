@@ -1,2 +1,2 @@
-# Trojan
-DDOS Trojan
+1. follow instagram pranata_pasha
+2. Fork it...
